@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AbigailThelin/node-express-class-demo-day2/issues"
   },
-  "homepage": "https://github.com/AbigailThelin/node-express-class-demo-day2#readme"
+  "homepage": "https://github.com/AbigailThelin/node-express-class-demo-day2#readme",
+  "dependencies": {
+    "cors": "^2.8.4"
+  }
 }
